@@ -2,17 +2,17 @@ class Solution {
 public:
     bool canAliceWin(vector<int>& nums) {
         int n = nums.size();
-        int bob=0;
-        int alice=0;
+        int single=0;
+        int doubl=0;
         for(int i=0;i<n;i++){
             if(nums[i]<10){
-                alice=alice+nums[i];
+                single=single+nums[i];
             }
             else{
-                bob=bob+nums[i];
+                doubl=doubl+nums[i];
             }
         }
-        if(alice!=bob){
+        if(single!=doubl){
             return true;
         }
         return false;
