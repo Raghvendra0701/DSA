@@ -4,9 +4,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
 | [3904-smallest-stable-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Math
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
+## Number Theory
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
