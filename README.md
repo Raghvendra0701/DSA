@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raghvendra0701/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raghvendra0701/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
