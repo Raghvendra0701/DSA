@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghvendra0701/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/Raghvendra0701/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Raghvendra0701/DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Primality Test
 |  |
 | ------- |
