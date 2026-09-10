@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0622-design-circular-queue](https://github.com/Raghvendra0701/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Bracket Sequences
 |  |
@@ -114,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Raghvendra0701/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
