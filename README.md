@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raghvendra0701/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Raghvendra0701/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Raghvendra0701/DSA/tree/master/0917-reverse-only-letters) |
 | [3794-reverse-string-prefix](https://github.com/Raghvendra0701/DSA/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raghvendra0701/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Raghvendra0701/DSA/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
