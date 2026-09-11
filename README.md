@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghvendra0701/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghvendra0701/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -117,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Raghvendra0701/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Raghvendra0701/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
