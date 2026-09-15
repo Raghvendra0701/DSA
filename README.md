@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Raghvendra0701/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghvendra0701/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raghvendra0701/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Raghvendra0701/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raghvendra0701/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
