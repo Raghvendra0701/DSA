@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0622-design-circular-queue](https://github.com/Raghvendra0701/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Raghvendra0701/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Raghvendra0701/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Bracket Sequences
 |  |
