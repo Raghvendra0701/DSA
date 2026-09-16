@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Raghvendra0701/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Raghvendra0701/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghvendra0701/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghvendra0701/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Raghvendra0701/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Raghvendra0701/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
