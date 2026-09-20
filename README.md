@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0622-design-circular-queue](https://github.com/Raghvendra0701/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghvendra0701/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raghvendra0701/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghvendra0701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0649-dota2-senate](https://github.com/Raghvendra0701/DSA/tree/master/0649-dota2-senate) |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Raghvendra0701/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Raghvendra0701/DSA/tree/master/0917-reverse-only-letters) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Raghvendra0701/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Raghvendra0701/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Raghvendra0701/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Raghvendra0701/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -196,7 +201,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Raghvendra0701/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/Raghvendra0701/DSA/tree/master/2974-minimum-number-game) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
