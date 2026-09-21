@@ -235,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Raghvendra0701/DSA/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Raghvendra0701/DSA/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
