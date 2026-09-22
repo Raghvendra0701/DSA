@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Raghvendra0701/DSA/tree/master/0735-asteroid-collision) |
 | [0821-shortest-distance-to-a-character](https://github.com/Raghvendra0701/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0896-monotonic-array](https://github.com/Raghvendra0701/DSA/tree/master/0896-monotonic-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Raghvendra0701/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghvendra0701/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raghvendra0701/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
