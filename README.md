@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Raghvendra0701/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Raghvendra0701/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/Raghvendra0701/DSA/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/Raghvendra0701/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghvendra0701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Raghvendra0701/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Raghvendra0701/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Raghvendra0701/DSA/tree/master/0917-reverse-only-letters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3794-reverse-string-prefix](https://github.com/Raghvendra0701/DSA/tree/master/3794-reverse-string-prefix) |
