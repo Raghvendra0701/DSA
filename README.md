@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Raghvendra0701/DSA/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/Raghvendra0701/DSA/tree/master/0047-permutations-ii) |
 | [0137-single-number-ii](https://github.com/Raghvendra0701/DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raghvendra0701/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Raghvendra0701/DSA/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/Raghvendra0701/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghvendra0701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Raghvendra0701/DSA/tree/master/0821-shortest-distance-to-a-character) |
