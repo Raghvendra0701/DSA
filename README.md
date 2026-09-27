@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Raghvendra0701/DSA/tree/master/0047-permutations-ii) |
 | [0137-single-number-ii](https://github.com/Raghvendra0701/DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Raghvendra0701/DSA/tree/master/0260-single-number-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Raghvendra0701/DSA/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0619-biggest-single-number](https://github.com/Raghvendra0701/DSA/tree/master/0619-biggest-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Raghvendra0701/DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
