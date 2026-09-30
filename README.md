@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Raghvendra0701/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0619-biggest-single-number](https://github.com/Raghvendra0701/DSA/tree/master/0619-biggest-single-number) |
 ## Backtracking
 |  |
