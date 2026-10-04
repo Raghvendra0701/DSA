@@ -1,0 +1,44 @@
+class Solution {
+public:
+    bool checkValidString(string s) {
+        stack<int> st;
+        stack<int> star;
+
+        for(int i = 0; i < s.length(); i++) {
+
+            if(s[i] == '(') {
+                st.push(i);
+            }
+
+            else if(s[i] == '*') {
+                star.push(i);
+            }
+
+            else {
+                if(!st.empty()) {
+                    st.pop();
+                }
+                else if(!star.empty()) {
+                    star.pop();
+                }
+                else {
+                    return false;
+                }
+            }
+        }
+
+        // Remaining '(' ko '*' se match karo
+        while(!st.empty() && !star.empty()) {
+
+            if(st.top() < star.top()) {
+                st.pop();
+                star.pop();
+            }
+            else {
+                return false;
+            }
+        }
+
+        return st.empty();
+    }
+};
