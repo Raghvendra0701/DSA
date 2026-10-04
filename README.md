@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Raghvendra0701/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Raghvendra0701/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Raghvendra0701/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Raghvendra0701/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghvendra0701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0649-dota2-senate](https://github.com/Raghvendra0701/DSA/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Raghvendra0701/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Raghvendra0701/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Raghvendra0701/DSA/tree/master/0844-backspace-string-compare) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Raghvendra0701/DSA/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Raghvendra0701/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raghvendra0701/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Raghvendra0701/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Raghvendra0701/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raghvendra0701/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghvendra0701/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Raghvendra0701/DSA/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Raghvendra0701/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
