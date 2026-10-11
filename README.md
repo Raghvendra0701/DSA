@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Raghvendra0701/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raghvendra0701/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/Raghvendra0701/DSA/tree/master/2974-minimum-number-game) |
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Raghvendra0701/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raghvendra0701/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
