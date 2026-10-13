@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raghvendra0701/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Raghvendra0701/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/Raghvendra0701/DSA/tree/master/3668-restore-finishing-order) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raghvendra0701/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raghvendra0701/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Raghvendra0701/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raghvendra0701/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Raghvendra0701/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2974-minimum-number-game](https://github.com/Raghvendra0701/DSA/tree/master/2974-minimum-number-game) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raghvendra0701/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
