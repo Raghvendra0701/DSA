@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Raghvendra0701/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Raghvendra0701/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3959-check-good-integer](https://github.com/Raghvendra0701/DSA/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Raghvendra0701/DSA/tree/master/2974-minimum-number-game) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/Raghvendra0701/DSA/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
