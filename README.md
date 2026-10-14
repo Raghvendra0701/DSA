@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghvendra0701/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raghvendra0701/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Raghvendra0701/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Raghvendra0701/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Raghvendra0701/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Raghvendra0701/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raghvendra0701/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Raghvendra0701/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Raghvendra0701/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raghvendra0701/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
