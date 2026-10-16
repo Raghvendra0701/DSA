@@ -20,10 +20,13 @@ public:
                 temp=temp->next;
             }
             else{
-                temp->next=b;
-                b=b->next;
-                temp=temp->next;
+                if(a->val>b->val){
+                    temp->next=b;
+                    temp=temp->next;
+                    b=b->next;
+                }
             }
+
         }
         if(a==NULL) temp->next=b;
         else temp->next=a;
