@@ -9,22 +9,20 @@
  * };
  */
 class Solution {
-public:
+public: 
     ListNode* merge(ListNode* a,ListNode* b){
         ListNode* c=new ListNode(100);
         ListNode* temp=c;
         while(a!=NULL && b!=NULL){
-            if(a->val<=b->val){
+            if(a->val <= b->val){
                 temp->next=a;
                 a=a->next;
                 temp=temp->next;
             }
             else{
-                if(a->val>=b->val){
-                    temp->next=b;
-                    b=b->next;
-                    temp=temp->next;
-                }
+                temp->next=b;
+                b=b->next;
+                temp=temp->next;
             }
         }
         if(a==NULL) temp->next=b;
@@ -42,9 +40,10 @@ public:
         ListNode* a=head;
         ListNode* b=slow->next;
         slow->next=NULL;
-        a=sortList(a);
-        b=sortList(b);
+        a= sortList(a);
+        b= sortList(b);
         ListNode* c=merge(a,b);
         return c;
+        
     }
 };
