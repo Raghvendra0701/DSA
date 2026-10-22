@@ -39,13 +39,17 @@ public:
             temp=temp->next;
             n++;
         }
-        if(a!=NULL) a->next=NULL;
-        c->next=NULL;
-        c=reverse(b);
-        if(a!=NULL) a->next=c;
-        b->next=d;
-        if(a!=NULL) return head;
-        return c;
+         if(a != NULL) a->next = NULL;
+        c->next = NULL;
+
+        c = reverse(b);
+
+        if(a != NULL) a->next = c;
+        else head = c;
+
+        b->next = d;
+
+        return head;
 
     }
 };
