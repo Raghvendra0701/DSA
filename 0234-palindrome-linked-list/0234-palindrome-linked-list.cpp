@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head){
+    ListNode* reverse(ListNode* head){
         ListNode* prev=NULL;
         ListNode* curr=head;
         ListNode* Next=head;
@@ -23,26 +23,20 @@ public:
         return prev;
     }
     bool isPalindrome(ListNode* head) {
-        ListNode* c= new ListNode(10);
-        ListNode* temp=head;
-        ListNode* tempc=c;
-        while(temp!=NULL){
-            ListNode* node=new ListNode(temp->val);
-            tempc->next=node;
-            temp=temp->next;
-            tempc=tempc->next;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next!=NULL && fast->next->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        c=c->next;
-        c=reverseList(c);
         ListNode* a=head;
-        ListNode* b=c;
-        while(a!=NULL){
-            if(a->val != b->val) return false;
+        ListNode* b=reverse(slow->next);
+        while(b!=NULL){
+            if(a->val!=b->val) return false;
             a=a->next;
             b=b->next;
         }
         return true;
-
         
     }
 };
