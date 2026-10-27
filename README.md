@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Raghvendra0701/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Raghvendra0701/DSA/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/Raghvendra0701/DSA/tree/master/0047-permutations-ii) |
+| [0136-single-number](https://github.com/Raghvendra0701/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Raghvendra0701/DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Raghvendra0701/DSA/tree/master/0260-single-number-iii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Raghvendra0701/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Raghvendra0701/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Raghvendra0701/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Raghvendra0701/DSA/tree/master/0287-find-the-duplicate-number) |
