@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Raghvendra0701/DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Raghvendra0701/DSA/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Raghvendra0701/DSA/tree/master/0260-single-number-iii) |
+| [0275-h-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Raghvendra0701/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0622-design-circular-queue](https://github.com/Raghvendra0701/DSA/tree/master/0622-design-circular-queue) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Raghvendra0701/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raghvendra0701/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
