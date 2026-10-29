@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3908-valid-digit-number](https://github.com/Raghvendra0701/DSA/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3959-check-good-integer](https://github.com/Raghvendra0701/DSA/tree/master/3959-check-good-integer) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Raghvendra0701/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raghvendra0701/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raghvendra0701/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Raghvendra0701/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
 | ------- |
