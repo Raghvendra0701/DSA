@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raghvendra0701/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Raghvendra0701/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3794-reverse-string-prefix](https://github.com/Raghvendra0701/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Raghvendra0701/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
 | ------- |
