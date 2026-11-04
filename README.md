@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Raghvendra0701/DSA/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Raghvendra0701/DSA/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/Raghvendra0701/DSA/tree/master/3019-number-of-changing-keys) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Raghvendra0701/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3794-reverse-string-prefix](https://github.com/Raghvendra0701/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
