@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Raghvendra0701/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2643-row-with-maximum-ones](https://github.com/Raghvendra0701/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Raghvendra0701/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raghvendra0701/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Raghvendra0701/DSA/tree/master/2942-find-words-containing-character) |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Raghvendra0701/DSA/tree/master/0164-maximum-gap) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/Raghvendra0701/DSA/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
