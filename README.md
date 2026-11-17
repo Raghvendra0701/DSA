@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Raghvendra0701/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Raghvendra0701/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Raghvendra0701/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Raghvendra0701/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raghvendra0701/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Raghvendra0701/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Raghvendra0701/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Raghvendra0701/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Raghvendra0701/DSA/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Raghvendra0701/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Raghvendra0701/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Raghvendra0701/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Raghvendra0701/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Raghvendra0701/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raghvendra0701/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raghvendra0701/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Raghvendra0701/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Raghvendra0701/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raghvendra0701/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Raghvendra0701/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Raghvendra0701/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Raghvendra0701/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Raghvendra0701/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Raghvendra0701/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
