@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Raghvendra0701/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3794-reverse-string-prefix](https://github.com/Raghvendra0701/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/Raghvendra0701/DSA/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
