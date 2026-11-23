@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Raghvendra0701/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Raghvendra0701/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghvendra0701/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raghvendra0701/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Raghvendra0701/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raghvendra0701/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raghvendra0701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raghvendra0701/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raghvendra0701/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Raghvendra0701/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Raghvendra0701/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Raghvendra0701/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Raghvendra0701/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Raghvendra0701/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raghvendra0701/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Raghvendra0701/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Raghvendra0701/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Raghvendra0701/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Raghvendra0701/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Raghvendra0701/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Raghvendra0701/DSA/tree/master/0622-design-circular-queue) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raghvendra0701/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -492,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghvendra0701/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raghvendra0701/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
