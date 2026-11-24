@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghvendra0701/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Raghvendra0701/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1816-truncate-sentence](https://github.com/Raghvendra0701/DSA/tree/master/1816-truncate-sentence) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Raghvendra0701/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Raghvendra0701/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
