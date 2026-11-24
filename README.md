@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raghvendra0701/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghvendra0701/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Raghvendra0701/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Raghvendra0701/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/Raghvendra0701/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raghvendra0701/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghvendra0701/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghvendra0701/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Raghvendra0701/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raghvendra0701/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Raghvendra0701/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raghvendra0701/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Raghvendra0701/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Raghvendra0701/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Primality Test
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raghvendra0701/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Raghvendra0701/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raghvendra0701/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Raghvendra0701/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Raghvendra0701/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quickselect
 |  |
 | ------- |
