@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Raghvendra0701/DSA/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghvendra0701/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghvendra0701/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/Raghvendra0701/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Raghvendra0701/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raghvendra0701/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Raghvendra0701/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Raghvendra0701/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Raghvendra0701/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Raghvendra0701/DSA/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/Raghvendra0701/DSA/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Raghvendra0701/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Raghvendra0701/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Raghvendra0701/DSA/tree/master/3925-concatenate-array-with-reverse) |
