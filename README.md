@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Raghvendra0701/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Raghvendra0701/DSA/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Raghvendra0701/DSA/tree/master/0735-asteroid-collision) |
+| [0812-largest-triangle-area](https://github.com/Raghvendra0701/DSA/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/Raghvendra0701/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/Raghvendra0701/DSA/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/Raghvendra0701/DSA/tree/master/0908-smallest-range-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Raghvendra0701/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raghvendra0701/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0812-largest-triangle-area](https://github.com/Raghvendra0701/DSA/tree/master/0812-largest-triangle-area) |
 | [0908-smallest-range-i](https://github.com/Raghvendra0701/DSA/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/Raghvendra0701/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Raghvendra0701/DSA/tree/master/1352-product-of-the-last-k-numbers) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Raghvendra0701/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Raghvendra0701/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## String Matching
 |  |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Raghvendra0701/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Raghvendra0701/DSA/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
